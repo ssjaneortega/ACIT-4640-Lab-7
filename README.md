@@ -10,5 +10,5 @@ Generates a key pair called "aws"
 
 Simple command to run our playbook using the name of the YAML file as the first positional argument.
 
-![Alt text](HTML%page.png)
+![Alt text](HTML%20page.png)
 
